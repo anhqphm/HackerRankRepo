@@ -7,4 +7,4 @@ This is a repository to keep track of solution codes over the year
 
 
 
-[Artificial Intelligence]()
+[Artificial Intelligence](https://github.com/anhqphm/HackerRankRepo/tree/main/Artificial_Intelligence)
