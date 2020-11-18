@@ -1,6 +1,6 @@
 # HackerRankRepo
 
-This is a repository to keep track of solution codes over the year
+This is a repository to keep track of my solution codes over the year
 
 
 [Problem Solving]()
